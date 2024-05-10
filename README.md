@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Choose Your Branch!
 
 This repo contains different versions of the starter code for **aa01-intro-to-expressions**,
@@ -145,3 +146,52 @@ directory--here, __.git__--and all of the directory's subfolders without any
 verification. **Make sure you are in the cloned repo when you run this
 command.**
 "# aa01-intro-to-expressions" 
+=======
+# Intro to Expressions
+
+Welcome to an App Academy coding project!
+
+Anytime that you open a coding project, run the following command to install
+dependencies:
+
+```sh
+npm install
+```
+
+Then, follow the prompts in the block of instructions at the top of every
+problem file in the __/problems__ folder of the project.
+
+To run your code in a problem file, run the following command in your terminal
+and replace `<problem-file-name>` with the name of the problem file:
+
+```sh
+node problems/<problem-file-name>.js
+```
+
+For example, to run the first problem file in the __/problems__ folder, run the
+following command in your terminal:
+
+```sh
+node problems/01-console-log.js
+```
+
+To test your code in a problem file with the given test specifications, run the
+following command in your terminal and replace `<problem-file-name>` with the
+name of the problem file:
+
+```sh
+npm test test/<problem-file-name>-spec.js
+```
+
+For example, to test the first problem file in the __/problems__ folder, run the
+following command in your terminal:
+
+```sh
+npm test test/01-console-log-spec.js
+```
+
+You know you are done with this coding project when you get all tests to pass
+with green check marks in your terminal!
+
+Have fun coding! 😊
+>>>>>>> 2560ea4 (Updated from solution change by brtrick)
